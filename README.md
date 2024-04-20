@@ -1,11 +1,12 @@
 # InterviewTask-MVVM-Kotlin-Coroutines
 InterviewTask-MVVM-Kotlin-Coroutines
 
--Kotlin
--MVVM
--kotlin Coroutines
--LiveData
--Lifecycle
--Viewmodel
--Retrofit
+Kotlin
+MVVM
+Kotlin Coroutines
+LiveData
+Lifecycle
+Viewmodel
+Retrofit
+Image loading without any third-party image loading library use.
 
